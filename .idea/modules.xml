@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Ejercicios_Tema_3/Ejercicios_Tema_3.iml" filepath="$PROJECT_DIR$/Ejercicios_Tema_3/Ejercicios_Tema_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Ejercicios_Tema_4/Ejercicios_Tema_4.iml" filepath="$PROJECT_DIR$/Ejercicios_Tema_4/Ejercicios_Tema_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/CursoDeIntroduccionALaProgramacion.iml" filepath="$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/CursoDeIntroduccionALaProgramacion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/Ejercicios_Tema_3/Ejercicios_Tema_3.iml" filepath="$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/Ejercicios_Tema_3/Ejercicios_Tema_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/Ejercicios_Tema_4/Ejercicios_Tema_4.iml" filepath="$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/Ejercicios_Tema_4/Ejercicios_Tema_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/Ejercicios_Tema_8/Ejercicios_Tema_8.iml" filepath="$PROJECT_DIR$/CursoDeIntroduccionALaProgramacion/Ejercicios_Tema_8/Ejercicios_Tema_8.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/OBC.iml" filepath="$PROJECT_DIR$/.idea/OBC.iml" />
     </modules>
   </component>
